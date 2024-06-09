@@ -5,7 +5,7 @@
 
 ### Connect with me 📫 :
 <a href="https://www.linkedin.com/in/emmanouil-xanthakis
-" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667"  style="max-width:100%;"></a>
+" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014"  style="max-width:100%;"></a>
 
 
 <a href="mailto:manolis.ksanthakis@gmail.com"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="max-width:100%;"></a>
