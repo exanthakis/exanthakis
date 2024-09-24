@@ -1,3 +1,7 @@
+### :technologist: About Me :
+
+I am a Front-end Developer from Greece.
+
 - 👋 Hi, I’m @exanthakis
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning new front end frameworks
