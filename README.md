@@ -18,6 +18,9 @@ I am a **Front-end Developer** from Greece 🇬🇷 with a strong passion for bu
   <a href="mailto:manolis.ksanthakis@gmail.com">
     <img align="left" alt="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
   </a>
+   <a href="https://www.emmanouelxanthakis.site/" target="_blank">
+    <img align="left" alt="Portfolio Website" width="30px" src="https://img.icons8.com/color/48/domain--v1.png"/>
+  </a>
 </p>  
 <br/>
 
