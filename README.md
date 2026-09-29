@@ -57,4 +57,4 @@ I am a **Front-end Developer** from Greece 🇬🇷 with a strong passion for bu
 
 ### 📊 GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=exanthakis&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exanthakis&layout=compact&theme=onedark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
