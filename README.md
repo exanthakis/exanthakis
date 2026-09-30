@@ -19,7 +19,8 @@ I am a **Full-stack Developer** from Greece 🇬🇷 with a strong passion for b
 <tr style="border: none;">
 <td width="50%" align="center" style="border: none;">
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=exanthakis&theme=dark&hide_border=false"> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=exanthakis&theme=dark&hide_border=true"
+> 
 </td>
 <td width="50%" align="center" style="border: none;">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=exanthakis&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
@@ -58,6 +59,8 @@ I am a **Full-stack Developer** from Greece 🇬🇷 with a strong passion for b
 </p>
 <!--profile visit count-->
 <div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
+  <img
+    src="https://komarev.com/ghpvc/?username=exanthakis&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </div>
-<!--horizontal divider(gradiant)-->
