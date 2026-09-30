@@ -1,16 +1,19 @@
 # 👨‍💻 Emmanouil Xanthakis
 
 ### :technologist: About Me  
-I am a **Front-end Developer** from Greece 🇬🇷 with a strong passion for building interactive, user-friendly web applications.  
+I am a **Full-stack Developer** from Greece 🇬🇷 with a strong passion for building interactive, user-friendly web applications.  
 
-- 👋 Hi, I’m **@exanthakis**  
-- 👀 Interested in **Software Engineering** & modern web technologies  
-- 🌱 Currently exploring **new front-end frameworks & full-stack solutions**  
-- 💡 Always eager to learn, collaborate, and contribute to open-source projects  
+<!--Intro start-->
+
+<ul>
+  <li><p>🔭 I’m currently working with <strong>React, Node.js, Express.js, TypeScript & MongoDB</strong></p></li>
+  <li><p>☁️ Interested in <strong>Full-Stack Development, Software Engineering</strong> & modern web technologies</p></li>
+  <li><p>🌱 Currently learning <strong>backend development</strong> and building scalable full-stack applications</p></li>
+</ul>
+<!--Intro end-->
 
 ---
 <!--- stats (start) -->
-
 <table align="center" border="0" style="border: none;">
 <tbody>
 <tr style="border: none;">
